@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-         <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-04-24</lastmod>
-    </url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/about/</loc>
+<lastmod>2025-04-29T01:13:41-05:00</lastmod>
+</url>
+<url>
+<loc>/contact/</loc>
+<lastmod>2025-04-29T01:13:41-05:00</lastmod>
+</url>
+<url>
+<loc>/elements/</loc>
+<lastmod>2025-04-29T01:13:41-05:00</lastmod>
+</url>
+<url>
+<loc>/tags/</loc>
+<lastmod>2025-04-29T01:13:41-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/the-evolving-landscape-of-product-design</loc>
+<lastmod>2023-05-05T07:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/crafting-unforgettable-user-experiences-through-design</loc>
+<lastmod>2023-05-09T07:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/unveiling-the-power-of-microinteractions</loc>
+<lastmod>2023-05-10T07:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/understanding-user-behavior-in-ux-design</loc>
+<lastmod>2023-05-12T07:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/blog/forging-user-connections-through-empathy</loc>
+<lastmod>2023-07-20T07:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/project/responsive-web-design-for-seamless-experiences</loc>
+<lastmod>2023-08-05T00:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/project/balancing-innovation-and-responsibility</loc>
+<lastmod>2023-08-07T00:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/project/pixelplay-games-playful-gaming-studio-brand</loc>
+<lastmod>2023-08-08T00:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/project/natures-essence-eco-friendly-skincare-brand</loc>
+<lastmod>2023-08-09T00:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/project/innovative-solutions-for-a-seamless-digital-experience</loc>
+<lastmod>2023-08-10T00:01:35-05:00</lastmod>
+</url>
+<url>
+<loc>/projects/</loc>
+</url>
+<url>
+<loc>/blog/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/blog/page/2/</loc>
+</url>
 </urlset>
