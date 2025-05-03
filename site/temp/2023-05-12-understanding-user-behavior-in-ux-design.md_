@@ -6,20 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Unveiling the Power of Microinteractions</title>
+  <title>Understanding User Behavior in UX Design</title>
   <meta name='description' content='Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with ...'>
 
-  <link rel="canonical" href="/blog/unveiling-the-power-of-microinteractions">
-  <link rel="alternate" type="application/rss+xml" title="Nuntu" href="/feed.xml">
+  <link rel="canonical" href="/temp/2023-05-12-understanding-user-behavior-in-ux-design.md_">
+  <link rel="alternate" type="application/rss+xml" title="🚀 Kamil Wiecek" href="/feed.xml">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Unveiling the Power of Microinteractions – Nuntu">
+  <meta name="twitter:title" content="Understanding User Behavior in UX Design – 🚀 Kamil Wiecek">
   <meta name="twitter:description" content="Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with user needs in mind, can leave a positive impression and satisfy their expectations.">
   <meta name="twitter:image:src" content="/images/02.jpg">
 
   <!-- Facebook OpenGraph -->
-  <meta property="og:title" content="Unveiling the Power of Microinteractions – Nuntu">
+  <meta property="og:title" content="Understanding User Behavior in UX Design – 🚀 Kamil Wiecek">
   <meta property="og:description" content="Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with user needs in mind, can leave a positive impression and satisfy their expectations.">
   <meta property="og:image" content="/images/02.jpg">
 
@@ -12001,7 +12001,7 @@ textarea.form__input {
         <div class="logo">
           <a class="logo__link" href="/">
           
-            Nuntu
+            🚀 Kamil Wiecek
           
           </a>
         </div>
@@ -12023,66 +12023,13 @@ textarea.form__input {
               
                 
                 <li class="nav__item">
-                  <a href="/projects/" class="nav__link">Projects</a>
-                </li>
-                
-              
-                
-                <li class="nav__item">
                   <a href="/blog/" class="nav__link">Blog</a>
                 </li>
                 
               
                 
-                <li class="nav__item dropdown">
-                  <span class="nav__link dropdown-toggle">Resources <i class="arrow-down fa-solid fa-chevron-down"></i></span>
-                  <div class="dropdown-menu">
-                    <div class="dropdown-inner">
-                    
-                      
-                      
-                      
-                      
-                      <a href="/about/" class="dropdown-item">
-                        
-                          <img class="dropdown-item__image lazy" data-src="/images/01-2.jpg" alt="About">
-                        
-                        <div class="dropdown-item__content">
-                          <div class="dropdown-item__title">About <i class="fa-solid fa-arrow-right-long"></i></div>
-                          <div class="dropdown-item__text">My design philosophy revolves around the principles of user-centricity and empathy. I firmly believe that understanding the needs, behaviors, and aspirations of users is the key to creating products that truly resonate with them. By placing the end-users at the heart of my design process, I strive to build solutions that address real-world challenges and spark meaningful connections.</div>
-                        </div>
-                      </a>
-                    
-                      
-                      
-                      
-                      
-                      <a href="/contact/" class="dropdown-item">
-                        
-                          <img class="dropdown-item__image lazy" data-src="/images/101.jpg" alt="Contact">
-                        
-                        <div class="dropdown-item__content">
-                          <div class="dropdown-item__title">Contact <i class="fa-solid fa-arrow-right-long"></i></div>
-                          <div class="dropdown-item__text">Nuntu comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.</div>
-                        </div>
-                      </a>
-                    
-                      
-                      
-                      
-                      
-                      <a href="/elements/" class="dropdown-item">
-                        
-                          <img class="dropdown-item__image lazy" data-src="/images/03.jpg" alt="Elements">
-                        
-                        <div class="dropdown-item__content">
-                          <div class="dropdown-item__title">Elements <i class="fa-solid fa-arrow-right-long"></i></div>
-                          <div class="dropdown-item__text">One of the most important parts of the design process is creating prototypes. They allow testing ideas and concepts at early stages and receiving feedback from users. We will discuss various prototyping tools and share tips on organizing user testing.</div>
-                        </div>
-                      </a>
-                    
-                    </div>
-                  </div>
+                <li class="nav__item">
+                  <a href="/about/" class="nav__link">About</a>
                 </li>
                 
               
@@ -12095,8 +12042,6 @@ textarea.form__input {
               <i class="search-button__icon fa-solid fa-magnifying-glass"></i>
               <span class="search-button__text">Search</span>
             </div>
-            
-              <a href="/contact/" class="nav-cta-button button">Get in touch</a>
             
           </div>
         </nav>
@@ -12135,8 +12080,8 @@ textarea.form__input {
 
   <div class="post-head">
     <div class="post-meta">
-      <time class="post-date" datetime="2023-05-10T07:01:35-05:00">10 May 2023</time>
-      <h1 class="post-title">Unveiling the Power of Microinteractions</h1>
+      <time class="post-date" datetime="2023-05-12T14:01:35+02:00">12 May 2023</time>
+      <h1 class="post-title">Understanding User Behavior in UX Design</h1>
       
         <p class="post-description">Design and user experience are critical factors in creating successful interactions with the target audience. Unique and intuitive interfaces, designed with user needs in mind, can leave a positive impression and satisfy their expectations.</p>
       
@@ -12147,7 +12092,9 @@ textarea.form__input {
         
           <a href="/tags/?tag=design" class="post__tag">design</a>
         
-          <a href="/tags/?tag=research" class="post__tag">research</a>
+          <a href="/tags/?tag=trends" class="post__tag">trends</a>
+        
+          <a href="/tags/?tag=UI" class="post__tag">UI</a>
         
       </div>
     
@@ -12155,67 +12102,64 @@ textarea.form__input {
 
   
     <div class="post-image">
-      <img class="lazy" data-src="/images/02.jpg" alt="Unveiling the Power of Microinteractions">
+      <img class="lazy" data-src="/images/02.jpg" alt="Understanding User Behavior in UX Design">
     </div>
   
 
   <article class="post">
 
     <div class="post__content">
-      <p>The process of creating a user interface starts with in-depth analysis of user needs and competitor research. Understanding user behavioral patterns and preferences plays a crucial role in developing design concepts.</p>
+      The process of creating a user interface starts with in-depth analysis of user needs and competitor research. Understanding user behavioral patterns and preferences plays a crucial role in developing design concepts.
 
-<h2 id="iterative-design-in-action">Iterative Design in Action</h2>
+## Iterative Design in Action
 
-<p>Effective design goes beyond visual aspects. It extends to information architecture, content organization, and microinteractions. Attention to detail is the key to creating a comprehensive user experience that retains users and engages them in actions. We will provide practical tips on optimizing user interfaces and enhancing usability.</p>
+Effective design goes beyond visual aspects. It extends to information architecture, content organization, and microinteractions. Attention to detail is the key to creating a comprehensive user experience that retains users and engages them in actions. We will provide practical tips on optimizing user interfaces and enhancing usability.
 
-<p>From user-centered design methodologies to sustainable practices, we explore the ethical dimensions of design and its impact on society and the environment.</p>
+From user-centered design methodologies to sustainable practices, we explore the ethical dimensions of design and its impact on society and the environment.
 
-<p>One of the most important parts of the design process is creating prototypes. They allow testing ideas and concepts at early stages and receiving feedback from users. We will discuss various prototyping tools and share tips on organizing user testing.</p>
+One of the most important parts of the design process is creating prototypes. They allow testing ideas and concepts at early stages and receiving feedback from users. We will discuss various prototyping tools and share tips on organizing user testing.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/02-2.jpg" loading="lazy" alt="Air Jordan" />
+    <img src="/images/02-2.jpg" loading="lazy" alt="Air Jordan">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/updW-QUccFE" target="_blank">Paul Volkmer</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-<p>Understanding the interaction between design and branding is a crucial aspect of design concept development. As designers, our task is not only to convey brand values and emotions through visual elements but also to create a unique personality that stands out among competitors. We will discuss creating a strong brand identity and managing its perception through design.</p>
+Understanding the interaction between design and branding is a crucial aspect of design concept development. As designers, our task is not only to convey brand values and emotions through visual elements but also to create a unique personality that stands out among competitors. We will discuss creating a strong brand identity and managing its perception through design.
 
-<blockquote>
-  <p>Design is an opportunity to continue telling the story, not just to sum everything up.</p>
+> Design is an opportunity to continue telling the story, not just to sum everything up.
+>
+<cite>- Tate Linden</cite>
 
-  <p><cite>- Tate Linden</cite></p>
-</blockquote>
+In this blog, we aim to create a community of designers where everyone can exchange knowledge, experience, and inspiration. Get ready for captivating articles, case studies, and interviews with industry leaders. We invite you to be part of our design community and together create amazing and unique web applications, interfaces, and much more!
 
-<p>In this blog, we aim to create a community of designers where everyone can exchange knowledge, experience, and inspiration. Get ready for captivating articles, case studies, and interviews with industry leaders. We invite you to be part of our design community and together create amazing and unique web applications, interfaces, and much more!</p>
-
-<p>Through compelling narratives, I aim to shed light on the emotional aspects of design. It’s not just about aesthetics and functionality; it’s about the profound impact a well-designed product can have on someone’s life.</p>
-
+Through compelling narratives, I aim to shed light on the emotional aspects of design. It's not just about aesthetics and functionality; it's about the profound impact a well-designed product can have on someone's life.
     </div>
 
     <div class="post__share">
       <ul class="share__list list-reset">
         <li class="share__item">
           <a class="share__link share__twitter"
-            href="https://twitter.com/intent/tweet?text=Unveiling%20the%20Power%20of%20Microinteractions&url=/blog/unveiling-the-power-of-microinteractions"
+            href="https://twitter.com/intent/tweet?text=Understanding%20User%20Behavior%20in%20UX%20Design&url=/temp/2023-05-12-understanding-user-behavior-in-ux-design.md_"
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on Twitter" rel="nofollow"><i class="fa-brands fa-x-twitter"></i><span class="share-name">Twitter</span></a>
         </li>
         <li class="share__item">
           <a class="share__link share__facebook"
-            href="https://www.facebook.com/sharer/sharer.php?u=/blog/unveiling-the-power-of-microinteractions"
+            href="https://www.facebook.com/sharer/sharer.php?u=/temp/2023-05-12-understanding-user-behavior-in-ux-design.md_"
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on Facebook" rel="nofollow"><i class="fa-brands fa-facebook-f"></i><span class="share-name">Facebook</span></a>
         </li>
         <li class="share__item">
           <a class="share__link share__pinterest"
-            href="http://pinterest.com/pin/create/button/?url=/blog/unveiling-the-power-of-microinteractions&amp;media=/images/02.jpg&amp;description=Unveiling%20the%20Power%20of%20Microinteractions"
+            href="http://pinterest.com/pin/create/button/?url=/temp/2023-05-12-understanding-user-behavior-in-ux-design.md_&amp;media=/images/02.jpg&amp;description=Understanding%20User%20Behavior%20in%20UX%20Design"
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on Pinterest" rel="nofollow"><i class="fa-brands fa-pinterest"></i><span class="share-name">Pinterest</span></a>
         </li>
         <li class="share__item">
           <a class="share__link share__linkedin"
-            href="https://www.linkedin.com/shareArticle?mini=true&url=/blog/unveiling-the-power-of-microinteractions&title=Unveiling%20the%20Power%20of%20Microinteractions&summary=Design%20and%20user%20experience%20are%20critical%20factors%20in%20creating%20successful%20interactions%20with%20the%20target%20audience.%20Unique%20and%20intuitive%20interfaces,%20designed%20with%20user%20needs%20in%20mind,%20can%20leave%20a%20positive%20impression%20and%20satisfy%20their%20expectations.&source="
+            href="https://www.linkedin.com/shareArticle?mini=true&url=/temp/2023-05-12-understanding-user-behavior-in-ux-design.md_&title=Understanding%20User%20Behavior%20in%20UX%20Design&summary=Design%20and%20user%20experience%20are%20critical%20factors%20in%20creating%20successful%20interactions%20with%20the%20target%20audience.%20Unique%20and%20intuitive%20interfaces,%20designed%20with%20user%20needs%20in%20mind,%20can%20leave%20a%20positive%20impression%20and%20satisfy%20their%20expectations.&source="
             onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
             title="Share on LinkedIn" rel="nofollow"><i class="fa-brands fa-linkedin-in"></i><span
               class="share-name">Linkedin</span></a>
@@ -12229,59 +12173,23 @@ textarea.form__input {
     <div class="post-author__info">
       
         <a href="/about/" class="post-author__avatar">
-          <img class="lazy" data-src="/images/01-1.jpg" alt="Jesse Parker">
+          <img class="lazy" data-src="/images/me1.jpg" alt="Kamil Wiecek">
         </a>
       
       <div class="post-author__meta">
         
-          <a href="/about/" class="post-author__link">Jesse Parker</a>
+          <a href="/about/" class="post-author__link">Kamil Wiecek</a>
         
         
-          <span class="post-author__role">Product Designer</span>
+          <span class="post-author__role">Cloud Platform Engineer</span>
         
       </div>
     </div>
     
-      <p class="post-author__description">When I'm not a Product Designer, I can often be found cycling through picturesque landscapes, immersing myself in the joy of two-wheeled adventures. Reading books is another passion of mine, as I love delving into captivating stories and exploring new ideas. Beyond these pursuits, I relish engaging in various activities that nurture my creativity and keep me inspired.</p>
+      <p class="post-author__description">Designing and building has always been my thing — it’s what I enjoy the most, especially systems and  tools that automate things or work as self-service. Professionally, I’ve been doing this for over a decade.</p>
     
   </div>
 
-  
-    <!-- begin comments -->
-<div class="show-comments">
-  <button class="button button--primary" id="show-comments-button" onclick="disqus();return false;">Comments</button>
-</div>
-
-<div id="disqus_thread" class="post__comments">
-  <div id="disqus_empty"></div>
-</div>
-
-<script>
-  var disqus_loaded = false;
-  var disqus_shortname = 'anvod-studio-test';
-  var disqus_container = document.getElementById("disqus_thread");
-  function disqus() {
-    if (!disqus_loaded) {
-      disqus_loaded = true;
-      var e = document.createElement("script");
-      e.type = "text/javascript";
-      e.async = true;
-      e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
-      (document.getElementsByTagName("head")[0] ||
-        document.getElementsByTagName("body")[0])
-        .appendChild(e);
-      // Hide the button after opening
-      document.getElementById("show-comments-button").style.display = "none";
-      // Show disqus comments
-      disqus_container.classList.add("is-open");
-    }
-  }
-</script>
-
-<noscript>Please enable JavaScript to view the
-  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-</noscript>
-<!-- end comments -->
   
 
 </div>
@@ -12294,7 +12202,7 @@ textarea.form__input {
 
 
 <!-- begin related posts -->
-<section class="section related-posts is-related">
+<section class="section related-posts ">
   <div class="container">
     <div class="row">
       <div class="col col-12">
@@ -12305,183 +12213,9 @@ textarea.form__input {
 
   
   
-    
-    
-
-    
-
-    
-
-      <div class="article grid__article">
-
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="article__inner">
-      
-          <div class="article__meta">
-            <time class="article__date" datetime="2023-07-20T07:01:35-05:00">20 July 2023</time>
-          </div>
-      
-          <div class="article__content">
-            <span class="article__count">(1)</span>
-
-            <div class="article__info">
-              <h2 class="article__title">
-                <a href="/blog/forging-user-connections-through-empathy">Forging User Connections through Empathy</a>
-              </h2>
-
-              
-              <div class="article-tags__box">
-                
-                  <a href="/tags/?tag=design" class="article__tag">design</a>
-                
-                  <a href="/tags/?tag=work" class="article__tag">work</a>
-                
-              </div>
-              
-
-            </div>
-          </div>
-
-          <a href="/blog/forging-user-connections-through-empathy" class="article__button">Read Post <i class="fa-solid fa-arrow-right-long"></i></a>
-        
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      
-
-    
-      
-    
-  
-    
-    
-
-    
-
-    
-
-      <div class="article grid__article">
-
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="article__inner">
-      
-          <div class="article__meta">
-            <time class="article__date" datetime="2023-05-12T07:01:35-05:00">12 May 2023</time>
-          </div>
-      
-          <div class="article__content">
-            <span class="article__count">(2)</span>
-
-            <div class="article__info">
-              <h2 class="article__title">
-                <a href="/blog/understanding-user-behavior-in-ux-design">Understanding User Behavior in UX Design</a>
-              </h2>
-
-              
-              <div class="article-tags__box">
-                
-                  <a href="/tags/?tag=design" class="article__tag">design</a>
-                
-                  <a href="/tags/?tag=trends" class="article__tag">trends</a>
-                
-                  <a href="/tags/?tag=UI" class="article__tag">UI</a>
-                
-              </div>
-              
-
-            </div>
-          </div>
-
-          <a href="/blog/understanding-user-behavior-in-ux-design" class="article__button">Read Post <i class="fa-solid fa-arrow-right-long"></i></a>
-        
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      
-
-    
-      
-    
-  
-    
-    
-
-    
-
-    
-  
-    
-    
-
-    
-
-    
-  
-    
-    
-
-    
-
-    
-  
 </section>
 <!-- end related posts -->
 
-
-<!-- begin section-gallery -->
-<section class="section section-gallery">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="section-gallery__inner">
-          
-            <h3 class="section-gallery__title shuffle">The Best Moments</h3>
-          
-          
-          <div class="section-gallery__content">
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-1.jpg" alt="Rest" loading="lazy">
-            </div>
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-2.jpg" alt="City" loading="lazy">
-            </div>
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-3.jpg" alt="Hobby" loading="lazy">
-            </div>
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-4.jpg" alt="Car" loading="lazy">
-            </div>
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-5.jpg" alt="Hobby" loading="lazy">
-            </div>
-            
-            <div class="section-gallery__image">
-              <img src="/images/gallery-6.jpg" alt="Lifestyle" loading="lazy">
-            </div>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- end section-gallery -->
 
     </main>
     <!-- end content -->
@@ -12497,7 +12231,7 @@ textarea.form__input {
           <div class="footer__logo">
             <a class="logo__link" href="/">
             
-              Nuntu
+              🚀 Kamil Wiecek
             
             </a>
           </div>
@@ -12507,32 +12241,14 @@ textarea.form__input {
             <ul class="social__list list-reset">
               
               <li class="social__item">
-                <a class="social__link" href="https://twitter.com" target="_blank" rel="noopener" aria-label="Social link">
+                <a class="social__link" href="https://x.com/kamil_wiecek_" target="_blank" rel="noopener" aria-label="Social link">
                   <span><i class="fa-brands fa-twitter"></i></span>
                 </a>
               </li>
               
               <li class="social__item">
-                <a class="social__link" href="https://facebook.com" target="_blank" rel="noopener" aria-label="Social link">
-                  <span><i class="fa-brands fa-facebook-f"></i></span>
-                </a>
-              </li>
-              
-              <li class="social__item">
-                <a class="social__link" href="https://instagram.com" target="_blank" rel="noopener" aria-label="Social link">
-                  <span><i class="fa-brands fa-instagram"></i></span>
-                </a>
-              </li>
-              
-              <li class="social__item">
-                <a class="social__link" href="https://pinterest.com" target="_blank" rel="noopener" aria-label="Social link">
-                  <span><i class="fa-brands fa-pinterest"></i></span>
-                </a>
-              </li>
-              
-              <li class="social__item">
-                <a class="social__link" href="https://dribbble.com" target="_blank" rel="noopener" aria-label="Social link">
-                  <span><i class="fa-brands fa-dribbble"></i></span>
+                <a class="social__link" href="https://pl.linkedin.com/in/kamil-wiecek" target="_blank" rel="noopener" aria-label="Social link">
+                  <span><i class="fa-brands fa-linkedin"></i></span>
                 </a>
               </li>
               
@@ -12550,7 +12266,7 @@ textarea.form__input {
   <div class="container">
     <div class="row">
       <div class="col col-12">
-        <div class="copyright">2025 &copy; <a href="/">Nuntu</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+        <div class="copyright">2025 &copy; <a href="/">🚀 Kamil Wiecek</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
       </div>
     </div>
   </div>

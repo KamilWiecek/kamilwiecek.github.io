@@ -1,7 +1,12 @@
-FROM jekyll/jekyll:4.2.2
+FROM ubuntu:20.04
 
-RUN gem update --system 3.3.22
-RUN bundle update --bundler
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && apt-get install -y \
+    ruby-full \
+    build-essential \
+    zlib1g-dev \
+    git \
+    && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /srv/jekyll
 COPY . /srv/jekyll
@@ -11,4 +16,5 @@ RUN bundle install
 RUN jekyll build
 
 EXPOSE 4000
-CMD ["jekyll", "serve", "--host", "0.0.0.0"]
+
+CMD ["jekyll", "serve", "--host", "0.0.0.0", "--watch", "--incremental"]
