@@ -5,9 +5,41 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 May 2025 17:27:43 +0200</pubDate>
-        <lastBuildDate>Sat, 03 May 2025 17:27:43 +0200</lastBuildDate>
+        <pubDate>Sun, 04 May 2025 16:52:46 +0200</pubDate>
+        <lastBuildDate>Sun, 04 May 2025 16:52:46 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>Why am I going to build a product?</title>
+                <description>&lt;p&gt;The list will be sharp and to the point, without any filler.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;I’ll have full decision-making power over what I do and how I do it&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;I enjoy pursuing goals I set for myself. After completing a demanding AI course and an algotrading bot project, I’m looking for a new, bigger challenge.&lt;/li&gt;
+  &lt;li&gt;My favorite part of professional work is designing and building systems.&lt;/li&gt;
+  &lt;li&gt;This is one of two paths I’ve been considering for years. It seems less risky than the other one—building my own service-based company.&lt;/li&gt;
+  &lt;li&gt;I’ve always had a few product ideas in mind.&lt;/li&gt;
+  &lt;li&gt;I want to do something beyond working for someone else. The main stage of building my professional career is already behind me.&lt;/li&gt;
+  &lt;li&gt;Nothing truly bad will happen if I fail — at worst, I’ll gain valuable experience and learn something.&lt;/li&gt;
+  &lt;li&gt;I’m inspired by people who have done it, like Troy Hunt and his &lt;a href=&quot;https://haveibeenpwned.com/&quot;&gt;Have I Been Pwned&lt;/a&gt; project&lt;/li&gt;
+  &lt;li&gt;I was inspired by Peter Levels’ book Make, in which he shares his experiences building startups solo.&lt;/li&gt;
+  &lt;li&gt;In the future, I’d like to be able to say: “I once built my own product, even though I wasn’t sure it would work out.”&lt;/li&gt;
+  &lt;li&gt;I’d like to build a personal brand along the lines of “he makes cool stuff.”&lt;/li&gt;
+  &lt;li&gt;Maybe I’ll even make some money from it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This blog entry will also be a place I come back to in moments when I lack motivation.&lt;/p&gt;
+</description>
+                <pubDate>Sun, 04 May 2025 02:00:00 +0200</pubDate>
+                <link>/blog/why-am-i-going-to-build-a-product</link>
+                <guid isPermaLink="true">/blog/why-am-i-going-to-build-a-product</guid>
+                
+                <category>motivation</category>
+                
+                <category>building product</category>
+                
+                
+            </item>
         
     </channel>
 </rss>
