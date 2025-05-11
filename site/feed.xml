@@ -5,9 +5,53 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 May 2025 16:52:46 +0200</pubDate>
-        <lastBuildDate>Sun, 04 May 2025 16:52:46 +0200</lastBuildDate>
+        <pubDate>Sun, 11 May 2025 16:13:26 +0200</pubDate>
+        <lastBuildDate>Sun, 11 May 2025 16:13:26 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>How I’ll choose what product to build</title>
+                <description>&lt;p&gt;I’ll divide the process into two main stages.&lt;/p&gt;
+
+&lt;h1 id=&quot;creating-a-list-of-ideas-and-initial-selection&quot;&gt;Creating a list of ideas and initial selection&lt;/h1&gt;
+
+&lt;p&gt;Following the recommendation from Peter Levels’ book Make, I’ll focus on problems I’ve personally encountered.&lt;/p&gt;
+
+&lt;p&gt;In the first step, I’ll create a rough list of problems and potential product ideas that come to mind. Then I’ll narrow it down to a maximum of three ideas for deeper analysis. The goal is to find something that solves a real problem and has a chance of actually being useful to others.&lt;/p&gt;
+
+&lt;p&gt;Next, I’ll describe these products on my blog and ask for feedback in places where I can find potential users.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/02-choosing-product-common-what-i-d-like-and-what-somoene-would-pay.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Overlap between &apos;What I would like to build&apos; and &apos;What someone would pay for&apos; — highlighting the sweet spot as potential product to build&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;describing-the-three-selected-product-ideas&quot;&gt;Describing the Three Selected Product Ideas&lt;/h1&gt;
+
+&lt;p&gt;Each product description will include:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Name and Description&lt;/strong&gt; – A short summary of the product and the problem it solves. I’ll explain why the problem is important and how solving it could help people.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Target Audience&lt;/strong&gt; – Who will benefit the most from this product.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Competition and Differentiation&lt;/strong&gt; – What similar solutions already exist and how my product will be different or better.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Business Model&lt;/strong&gt; – How I plan to make money from this product and what costs I expect.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Marketing Ideas&lt;/strong&gt; – How I could get people interested in the product.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Concerns and Challenges&lt;/strong&gt; – What I’m worried about and what might be hard during the process.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;main-goal-for-may-2025&quot;&gt;Main Goal for May 2025&lt;/h3&gt;
+
+&lt;p&gt;My goal for this month is to clearly describe these ideas using the structure above and define what I can quickly build to test market interest — a scope of work for an MVP. It’s important to check as early as possible if the market really needs the solution, before I invest more time and resources into it.&lt;/p&gt;
+</description>
+                <pubDate>Sun, 11 May 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-will-i-choose-product-to-build</link>
+                <guid isPermaLink="true">/blog/how-will-i-choose-product-to-build</guid>
+                
+                <category>choosing product to build</category>
+                
+                
+            </item>
         
             <item>
                 <title>Why am I going to build a product?</title>
@@ -28,7 +72,7 @@
   &lt;li&gt;Maybe I’ll even make some money from it.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This blog entry will also be a place I come back to in moments when I lack motivation.&lt;/p&gt;
+&lt;p&gt;As I mentioned, this blog entry will also serve as a place I can return to whenever I need a reminder of why I started, especially in moments when motivation runs low.&lt;/p&gt;
 </description>
                 <pubDate>Sun, 04 May 2025 02:00:00 +0200</pubDate>
                 <link>/blog/why-am-i-going-to-build-a-product</link>
