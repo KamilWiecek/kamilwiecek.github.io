@@ -5,9 +5,54 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 May 2025 06:42:44 +0200</pubDate>
-        <lastBuildDate>Fri, 16 May 2025 06:42:44 +0200</lastBuildDate>
+        <pubDate>Fri, 16 May 2025 13:52:18 +0200</pubDate>
+        <lastBuildDate>Fri, 16 May 2025 13:52:18 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>✅ How I plan to validate Trading Signals Auditor idea in the real world</title>
+                <description>&lt;h1 id=&quot;-first-things-first-validating-interest-before-building-it-all&quot;&gt;📢 First Things First: Validating Interest Before Building It All&lt;/h1&gt;
+
+&lt;h2 id=&quot;i-want-to-find-out-if-anyone-is-even-interested-in-it&quot;&gt;I want to find out if anyone is even interested in it&lt;/h2&gt;
+
+&lt;p&gt;To do that, I want to start marketing the product by publishing interesting insights from analyzing trading signal groups — on Twitter, Reddit, and niche forums.  For this, I need to collect and analyze the trading signals, only then I can start sharing my findings publicly and for free, directing people to my landing page with a waitlist option&lt;/p&gt;
+
+&lt;p&gt;This will be a challenge for me, but while doing all the above tasks, I need to focus above all on the time required to implement them, avoiding overengineering and aiming for simplicity.&lt;/p&gt;
+
+&lt;h2 id=&quot;-the-goal-is-to-start-collecting-interested-users-on-the-waitlist-as-soon-as-possible&quot;&gt;🎯 The goal is to start collecting interested users on the waitlist as soon as possible.&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;That’s why I’ll start by planning the tasks that will get me there.&lt;/strong&gt; I will divide it to milestones.&lt;/p&gt;
+
+&lt;h1 id=&quot;-what-must-be-the-outcome-of-my-next-actions&quot;&gt;📋 What Must Be the Outcome of My Next Actions&lt;/h1&gt;
+
+&lt;h2 id=&quot;-collected-trading-signals&quot;&gt;📊 Collected Trading Signals&lt;/h2&gt;
+
+&lt;p&gt;First, I will prepare scripts that automatically download and process signals from popular groups sharing free trading signals. These scripts will run locally, and the data will be saved in a SQLite database. Initially, I will focus on the most popular groups and simple solutions to quickly launch the data collection process.&lt;/p&gt;
+
+&lt;h2 id=&quot;️️-verification-of-the-effectiveness-of-the-collected-signals&quot;&gt;🕵️‍♂️ Verification of the Effectiveness of the Collected Signals&lt;/h2&gt;
+
+&lt;p&gt;The next step will be to perform backtesting of the collected signals using historical market data. This way, I will determine how effective the signals were and what potential profit or loss they could have generated.&lt;/p&gt;
+
+&lt;h2 id=&quot;-readiness-to-let-people-join-the-waitlist-for-the-product&quot;&gt;📨 Readiness to Let People Join the Waitlist for the Product&lt;/h2&gt;
+
+&lt;p&gt;I will create a simple landing page that briefly presents the product, shows sample visualizations, and includes a blog with conclusions from the analyses. Users will be able to join the waitlist by providing their email to receive updates about the product’s availability and interesting insights from the analyses. This way, I’ll be able to build engagement and keep potential users informed.&lt;/p&gt;
+
+&lt;h1 id=&quot;️-time-to-build&quot;&gt;🛠️ Time to Build&lt;/h1&gt;
+
+&lt;p&gt;Finally, it’s time for implementation. For each of the 3 milestones described above—ultimately leading to the start of product promotion and encouraging sign-ups to the waitlist—I will prepare a more detailed task list and begin the implementation.&lt;/p&gt;
+</description>
+                <pubDate>Thu, 15 May 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-i-plan-to-validate-trading-signals-auditor-idea-in-the-real-world</link>
+                <guid isPermaLink="true">/blog/how-i-plan-to-validate-trading-signals-auditor-idea-in-the-real-world</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>product validation</category>
+                
+                <category>building product</category>
+                
+                
+            </item>
         
             <item>
                 <title>📈 Trading Signals Auditor - The First Product Idea I’m Most Excited About</title>
