@@ -5,15 +5,80 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 May 2025 16:13:26 +0200</pubDate>
-        <lastBuildDate>Sun, 11 May 2025 16:13:26 +0200</lastBuildDate>
+        <pubDate>Fri, 16 May 2025 06:42:44 +0200</pubDate>
+        <lastBuildDate>Fri, 16 May 2025 06:42:44 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
         
             <item>
-                <title>How I’ll choose what product to build</title>
+                <title>📈 Trading Signals Auditor - The First Product Idea I’m Most Excited About</title>
+                <description>&lt;h1 id=&quot;️-what-is-signals-auditor-and-what-problem-does-it-solve&quot;&gt;🙅‍♀️ What is Signals Auditor And What Problem Does It Solve?&lt;/h1&gt;
+
+&lt;p&gt;Signals Auditor is a tool that:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;reveals the real performance of investment signals from various sources&lt;/li&gt;
+  &lt;li&gt;reduces the risk of wasting money on dishonest signal providers&lt;/li&gt;
+  &lt;li&gt;rhelps minimize losses caused by inaccurate signals&lt;/li&gt;
+  &lt;li&gt;rsupports conscious decisions about buying signals&lt;/li&gt;
+  &lt;li&gt;rexposes scammy trading signal providers&lt;/li&gt;
+  &lt;li&gt;verifies signals in a practical way by trading selected signals on a real exchange&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-who-will-benefit-from-this-product&quot;&gt;🎯 Who Will Benefit From This Product&lt;/h1&gt;
+
+&lt;p&gt;The product is targeted at investors of all experience levels who don’t want to get scammed out of their money by paying for or using low-quality signals. Instead, they want to make a conscious and informed decision about whether to use such signals and risk their hard-earned money.&lt;/p&gt;
+
+&lt;h1 id=&quot;-what-about-the-competition&quot;&gt;🏆 What about the competition?&lt;/h1&gt;
+
+&lt;p&gt;I haven’t found any solutions on the market that truly audit the effectiveness of trading signals. A potential customer can only rely on what the signal groups claim.&lt;/p&gt;
+
+&lt;p&gt;And that’s exactly where Signals Auditor comes in — independent, transparent, and data-driven.&lt;/p&gt;
+
+&lt;h1 id=&quot;-business-model-and-costs-behind-the-product&quot;&gt;💰 Business Model and Costs Behind the Product&lt;/h1&gt;
+
+&lt;p&gt;Access to the real trading signals results will be paid — a subscription model that also gives users influence over the product’s development by allowing them to suggest and choose new features and groups whose signal sources will be audited.&lt;/p&gt;
+
+&lt;p&gt;The costs include my time spent on developing the product, small IT infrastructure expenses, and the cost of memberships in paid signal groups that will be audited.&lt;/p&gt;
+
+&lt;h1 id=&quot;-how-i-want-to-promote-it&quot;&gt;📣 How I Want to Promote It&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Build an MVP with a clearly defined scope in the coming days.&lt;/li&gt;
+  &lt;li&gt;Ask for feedback on Reddit — to check if the product makes sense, especially since part of the functionality is ready and I can share stats on signal group reliability.&lt;/li&gt;
+  &lt;li&gt;Create a Twitter profile and share analysis results during MVP development, including in trading-related threads.&lt;/li&gt;
+  &lt;li&gt;Post weekly or monthly stats — e.g., for specific tokens — on the blog and in communities where traders gather.&lt;/li&gt;
+  &lt;li&gt;Set up a landing page with a “buy” button — really a waitlist sign-up with a potential launch promotion. According to Peter Levels, it’s a good way to validate real interest.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;️-what-worries-me-the-most-about-launching-this-product&quot;&gt;⚠️ What Worries Me the Most About Launching This Product&lt;/h1&gt;
+
+&lt;p&gt;I have two main concerns about this product: I’m wondering if I’ll be able to reach people who are interested in it, and I’m also worried about how the owners of the groups that perform poorly will react — especially since it will be known who is behind the product.&lt;/p&gt;
+
+&lt;h1 id=&quot;-opportunities&quot;&gt;🚀 Opportunities&lt;/h1&gt;
+
+&lt;p&gt;I want to build a product from A to Z, and that alone already gives me satisfaction, so this project is, above all, a personal challenge for me. I plan to act in the spirit of Building in Public, so I will regularly share my progress — maybe I’ll also gather some interest and feedback along the way. And even if it doesn’t work out commercially — I’ll be left with knowledge, experience, a toolbox of tools built during development, and data that — if it’s worth it — I can share publicly.&lt;/p&gt;
+
+&lt;h2 id=&quot;️-whats-my-next-step&quot;&gt;🛠️ What’s my next step&lt;/h2&gt;
+
+&lt;p&gt;In the post &lt;a href=&quot;how-will-i-choose-product-to-build&quot;&gt;📋 How I’ll choose what product to build&lt;/a&gt;  I planned to describe all potential products first, but I’ve already decided to start building Signals Auditor. That’s why my next step will be to plan the MVP features, breaking them down into milestones and tasks needed to release the first iteration of the product.&lt;/p&gt;
+</description>
+                <pubDate>Wed, 14 May 2025 02:00:00 +0200</pubDate>
+                <link>/blog/what-is-signals-auditor</link>
+                <guid isPermaLink="true">/blog/what-is-signals-auditor</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>choosing product to build</category>
+                
+                <category>building product</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>📋 How I’ll choose what product to build </title>
                 <description>&lt;p&gt;I’ll divide the process into two main stages.&lt;/p&gt;
 
-&lt;h1 id=&quot;creating-a-list-of-ideas-and-initial-selection&quot;&gt;Creating a list of ideas and initial selection&lt;/h1&gt;
+&lt;h1 id=&quot;-creating-a-list-of-ideas-and-initial-selection&quot;&gt;📋 Creating a list of ideas and initial selection&lt;/h1&gt;
 
 &lt;p&gt;Following the recommendation from Peter Levels’ book Make, I’ll focus on problems I’ve personally encountered.&lt;/p&gt;
 
@@ -27,7 +92,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h1 id=&quot;describing-the-three-selected-product-ideas&quot;&gt;Describing the Three Selected Product Ideas&lt;/h1&gt;
+&lt;h1 id=&quot;-describing-the-three-selected-product-ideas&quot;&gt;📝 Describing the Three Selected Product Ideas&lt;/h1&gt;
 
 &lt;p&gt;Each product description will include:&lt;/p&gt;
 
@@ -40,7 +105,7 @@
   &lt;li&gt;&lt;strong&gt;Concerns and Challenges&lt;/strong&gt; – What I’m worried about and what might be hard during the process.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id=&quot;main-goal-for-may-2025&quot;&gt;Main Goal for May 2025&lt;/h3&gt;
+&lt;h3 id=&quot;-main-goal-for-may-2025&quot;&gt;✅ Main Goal for May 2025&lt;/h3&gt;
 
 &lt;p&gt;My goal for this month is to clearly describe these ideas using the structure above and define what I can quickly build to test market interest — a scope of work for an MVP. It’s important to check as early as possible if the market really needs the solution, before I invest more time and resources into it.&lt;/p&gt;
 </description>
@@ -54,7 +119,7 @@
             </item>
         
             <item>
-                <title>Why am I going to build a product?</title>
+                <title>🤔 Why am I going to build a product?</title>
                 <description>&lt;p&gt;The list will be sharp and to the point, without any filler.&lt;/p&gt;
 
 &lt;ul&gt;

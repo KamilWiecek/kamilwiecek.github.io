@@ -1,13 +1,19 @@
 [
   
     {
-      "title"  : "How I’ll choose what product to build",
+      "title"  : "📈 Trading Signals Auditor - The First Product Idea I’m Most Excited About",
+      "url"    : "/blog/what-is-signals-auditor",
+      "date"   : "14 May 2025"
+    } ,
+  
+    {
+      "title"  : "📋 How I’ll choose what product to build ",
       "url"    : "/blog/how-will-i-choose-product-to-build",
       "date"   : "11 May 2025"
     } ,
   
     {
-      "title"  : "Why am I going to build a product?",
+      "title"  : "🤔 Why am I going to build a product?",
       "url"    : "/blog/why-am-i-going-to-build-a-product",
       "date"   : "04 May 2025"
     } 
