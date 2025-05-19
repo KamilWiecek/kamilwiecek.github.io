@@ -5,9 +5,72 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 May 2025 19:59:50 +0200</pubDate>
-        <lastBuildDate>Fri, 16 May 2025 19:59:50 +0200</lastBuildDate>
+        <pubDate>Mon, 19 May 2025 18:52:28 +0200</pubDate>
+        <lastBuildDate>Mon, 19 May 2025 18:52:28 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>🧭 How I Plan to Deliver My First Milestone: Collecting Signals from Three Popular Trading Groups</title>
+                <description>&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/05-planning-infographic.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Collecting Signals from Three Popular Trading Groups - Linear view&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;-why-i-dont-mix-planning-with-implementation&quot;&gt;🧠 Why I Don’t Mix Planning with Implementation&lt;/h1&gt;
+
+&lt;p&gt;During the planning phase, the most important thing for me is to be critical of my own ideas. I try to clearly define what’s truly necessary and what can wait. The goal isn’t perfection — it’s to plan actions that are &lt;em&gt;realistic&lt;/em&gt; to deliver in a realistic timeline. This is not the moment for excitement — it’s a time for clear thinking and an honest assessment of what really needs to be done.&lt;/p&gt;
+
+&lt;p&gt;When I move to the implementation phase, I no longer analyze the decisions I’ve already made. &lt;strong&gt;I deeply trust myself from the time I planned the task&lt;/strong&gt;. Thanks to this, I can focus all my energy on execution without constantly questioning the direction.&lt;/p&gt;
+
+&lt;h1 id=&quot;️-what-am-i-building-now&quot;&gt;🛠️ What am I building now?&lt;/h1&gt;
+
+&lt;p&gt;My goal at this stage is to collect trading signals from three sources. First, I need to choose these sources, then write scripts to handle them, store the data in a database, and finally — set up some initial automation for the whole process.&lt;/p&gt;
+
+&lt;h3 id=&quot;thats-why-ive-prepared-a-specific-task-list-that-will-lead-me-to-this-goal&quot;&gt;That’s why I’ve prepared a specific task list that will lead me to this goal.&lt;/h3&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/05-planning-linear.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Collecting Signals from Three Popular Trading Groups - Linear view&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Collect a list of signal sources (free and paid) with their types (TG/Discord/etc.)&lt;/li&gt;
+  &lt;li&gt;Prepare a schema for captured signals&lt;/li&gt;
+  &lt;li&gt;Configure data persistence for captured signals&lt;/li&gt;
+  &lt;li&gt;Develop a script to capture signals from a single source&lt;/li&gt;
+  &lt;li&gt;Automate signal capturing on a schedule&lt;/li&gt;
+  &lt;li&gt;Automate capturing signals from a second source&lt;/li&gt;
+  &lt;li&gt;Automate capturing signals from a third source&lt;/li&gt;
+  &lt;li&gt;Prepare a list of insights to extract from captured signals&lt;/li&gt;
+  &lt;li&gt;Extract insights from captured signal data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-what-did-i-discover-during-planning&quot;&gt;💡 What did I discover during planning?&lt;/h1&gt;
+
+&lt;p&gt;During planning, I noticed something interesting.&lt;/p&gt;
+
+&lt;p&gt;Even though my main goal for the first three milestones (described &lt;a href=&quot;how-i-plan-to-validate-trading-signals-auditor-idea-in-the-real-world&quot;&gt;✅ How I plan to validate Trading Signals Auditor idea in the real world&lt;/a&gt;) is to prepare the groundwork to start sharing results from analyzing trading signal group performance — it turns out that collecting the signals alone already allows me to share initial insights. For example, I can show how many signals each group generates, how that number changes over time, and which tokens appear most frequently.&lt;/p&gt;
+
+&lt;p&gt;This is a very valuable stage — I can start sharing this kind of data publicly as part of the process of building Signals Auditor. It might be the first point of contact with potential users and a good way to spark early interest in the product.&lt;/p&gt;
+
+&lt;h3 id=&quot;-whats-next&quot;&gt;📌 What’s next?&lt;/h3&gt;
+
+&lt;p&gt;Next steps include:preparing a list of signal groups I want to analyze, and implementing the first technical tasks from the backlog I’ve already planned. I’ll keep sharing progress updates — both here on the blog and through other channels, in the spirit of building in public.&lt;/p&gt;
+</description>
+                <pubDate>Mon, 19 May 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-i-plan-to-deliver-collecting-signals-from-popular-groups</link>
+                <guid isPermaLink="true">/blog/how-i-plan-to-deliver-collecting-signals-from-popular-groups</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>product validation</category>
+                
+                <category>building product</category>
+                
+                
+            </item>
         
             <item>
                 <title>✅ How I plan to validate Trading Signals Auditor idea in the real world</title>
@@ -41,7 +104,7 @@
 
 &lt;p&gt;Finally, it’s time for implementation. For each of the 3 milestones described above—ultimately leading to the start of product promotion and encouraging sign-ups to the waitlist—I will prepare a more detailed task list and begin the implementation.&lt;/p&gt;
 </description>
-                <pubDate>Thu, 15 May 2025 02:00:00 +0200</pubDate>
+                <pubDate>Fri, 16 May 2025 02:00:00 +0200</pubDate>
                 <link>/blog/how-i-plan-to-validate-trading-signals-auditor-idea-in-the-real-world</link>
                 <guid isPermaLink="true">/blog/how-i-plan-to-validate-trading-signals-auditor-idea-in-the-real-world</guid>
                 
