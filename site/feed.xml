@@ -5,9 +5,76 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 May 2025 18:52:28 +0200</pubDate>
-        <lastBuildDate>Mon, 19 May 2025 18:52:28 +0200</lastBuildDate>
+        <pubDate>Tue, 10 Jun 2025 18:51:48 +0200</pubDate>
+        <lastBuildDate>Tue, 10 Jun 2025 18:51:48 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>🔍 How I Found Trading Signal Groups to Audit (not for trading)</title>
+                <description>&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/06-how-i-found-trading-signals-groups.jpg&quot; loading=&quot;lazy&quot; alt=&quot;How I Found Trading Signal Groups&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The first task I set for myself was to gather a list of signal groups I’d like to audit and choose three to start with.&lt;/p&gt;
+
+&lt;h4 id=&quot;️-just-to-be-clear--im-not-recommending-any-of-these-groups-or-believing-in-their-effectiveness-in-fact-their-effectiveness-is-the-topic-of-the-product-im-currently-working-on&quot;&gt;⚠️ Just to be clear – I’m not recommending any of these groups or believing in their effectiveness. In fact, their “effectiveness” is the topic of the product I’m currently working on.&lt;/h4&gt;
+
+&lt;h1 id=&quot;-research-mode-chatgpt--perplexity-in-action&quot;&gt;📚 Research Mode: ChatGPT &amp;amp; Perplexity in Action&lt;/h1&gt;
+
+&lt;p&gt;To collect the list of groups, I used LLMs: ChatGPT and Perplexity.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Select 20 crypto trading signal sources. Choose the most popular.
+Rules:
+- ALWAYS consider groups with a large number of members as popular, both free and paid
+- For each group, if the information is available:
+    - ALWAYS include how the trading signals are delivered (e.g., Telegram group, email, Signal, Discord, website, or something else)
+    - If possible, include the price of the signal group
+    - If possible, include the number of members in the signal group
+    - If possible, find out whether the signals are free, paid, or both
+- ALWAYS exclude non-English-speaking groups
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you’re interested in the details, the responses I received are linked below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.perplexity.ai/search/select-20-crypto-trading-signa-4Cg4JsODQamvYjYRJ4jvZA&quot;&gt;Perplexity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chatgpt.com/s/dr_682c09b8f95c8191820593c24b43bc10&quot;&gt;ChatGPT&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are the results from Deep Research mode – Perplexity turned out to be much faster. Interestingly, both lists were quite similar.&lt;/p&gt;
+
+&lt;h1 id=&quot;-investigating-signal-groups-the-chosen-few&quot;&gt;🔎 Investigating Signal Groups: The Chosen Few&lt;/h1&gt;
+
+&lt;p&gt;Below, you’ll find the prompt I used for validation and the list of groups I finally selected:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;binancekillers&lt;/li&gt;
+  &lt;li&gt;FedRussianInsiders&lt;/li&gt;
+  &lt;li&gt;binancesignals&lt;/li&gt;
+  &lt;li&gt;wolfoftrading&lt;/li&gt;
+  &lt;li&gt;cryptoinnercircle&lt;/li&gt;
+  &lt;li&gt;wolfxsignals_free&lt;/li&gt;
+  &lt;li&gt;wallstreetqueenofficial&lt;/li&gt;
+  &lt;li&gt;learn2tradenews&lt;/li&gt;
+  &lt;li&gt;whalepumpgroup23&lt;/li&gt;
+  &lt;li&gt;altsignals&lt;/li&gt;
+  &lt;li&gt;cryptosignals0rg&lt;/li&gt;
+  &lt;li&gt;coincodecap&lt;/li&gt;
+  &lt;li&gt;fatpigsignals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;️--again-just-to-be-clear--im-not-recommending-any-of-these-groups-or-believing-in-their-effectiveness-in-fact-their-effectiveness-is-the-topic-of-the-product-im-currently-working-on&quot;&gt;⚠️  Again…. Just to be clear – I’m not recommending any of these groups or believing in their effectiveness. In fact, their “effectiveness” is the topic of the product I’m currently working on.&lt;/h4&gt;
+</description>
+                <pubDate>Tue, 10 Jun 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-i-found-trading-signals-groups-to-audit</link>
+                <guid isPermaLink="true">/blog/how-i-found-trading-signals-groups-to-audit</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>trading signals groups to audit</category>
+                
+                
+            </item>
         
             <item>
                 <title>🧭 How I Plan to Deliver My First Milestone: Collecting Signals from Three Popular Trading Groups</title>
@@ -65,9 +132,7 @@
                 
                 <category>signals auditor</category>
                 
-                <category>product validation</category>
-                
-                <category>building product</category>
+                <category>planning</category>
                 
                 
             </item>
