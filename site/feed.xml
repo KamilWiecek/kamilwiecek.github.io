@@ -5,9 +5,79 @@
         <description>I am building in public my first product, sharing the journey, challenges, and progress along the way to inspire and connect with others.</description>
         <link>/</link>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jun 2025 18:51:48 +0200</pubDate>
-        <lastBuildDate>Tue, 10 Jun 2025 18:51:48 +0200</lastBuildDate>
+        <pubDate>Thu, 19 Jun 2025 15:55:44 +0200</pubDate>
+        <lastBuildDate>Thu, 19 Jun 2025 15:55:44 +0200</lastBuildDate>
         <generator>Jekyll v3.9.5</generator>
+        
+            <item>
+                <title>✅ How I Delivered the First Planned Milestone and Started Collecting Free Trading Signals</title>
+                <description>&lt;h1 id=&quot;-completed-tasks&quot;&gt;✅ Completed Tasks&lt;/h1&gt;
+
+&lt;p&gt;✔️ Selected three active signal groups for analysis&lt;/p&gt;
+
+&lt;p&gt;✔️ Created Python script for Telegram message fetching&lt;/p&gt;
+
+&lt;p&gt;✔️ Built Go program for signal extraction&lt;/p&gt;
+
+&lt;p&gt;✔️ Developed message viewing tool with daily signal display&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/08-print-captures-signal.jpg&quot; loading=&quot;lazy&quot; alt=&quot;Screenshot showing the signal extraction program in action, displaying captured trading signals from Telegram groups&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+                <pubDate>Wed, 18 Jun 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-i-captured-signals</link>
+                <guid isPermaLink="true">/blog/how-i-captured-signals</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>building product</category>
+                
+                <category>product implementation</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>🕵️ How I Selected Signal Groups to Analyze First</title>
+                <description>&lt;h1 id=&quot;️-actions-taken&quot;&gt;🛠️ Actions Taken:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;wrote a script that fetches messages from Telegram and puts them into a SQLite database&lt;/li&gt;
+  &lt;li&gt;looked for a free signal pattern for each channel on Telegram&lt;/li&gt;
+  &lt;li&gt;analyzed, using SQL, how often signals appeared&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the example below you will see the analysis of Crypto Inner Circle®, which allowed me to exclude this group for now because they publish signals too rarely:&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/07-sql-query-to-decide-if-proceed-with-crypto-inner-circle.jpg&quot; loading=&quot;lazy&quot; alt=&quot;How I decide to skip Crypto Inner Circle®&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;finally-after-processing-almost-160k-telegram-messages-decided-to-start-with&quot;&gt;Finally, after processing almost 160k Telegram messages decided to start with:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;cryptosignals0rg&lt;/li&gt;
+  &lt;li&gt;whalepumpgroup23&lt;/li&gt;
+  &lt;li&gt;wallstreetqueenofficial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;️--again-just-to-be-clear--im-not-recommending-any-of-these-groups-or-believing-in-their-effectiveness-in-fact-their-effectiveness-is-the-topic-of-the-product-im-currently-working-on&quot;&gt;⚠️  Again…. Just to be clear – I’m not recommending any of these groups or believing in their effectiveness. In fact, their “effectiveness” is the topic of the product I’m currently working on.&lt;/h4&gt;
+</description>
+                <pubDate>Tue, 17 Jun 2025 02:00:00 +0200</pubDate>
+                <link>/blog/how-i-selected-first-3-signal-groups</link>
+                <guid isPermaLink="true">/blog/how-i-selected-first-3-signal-groups</guid>
+                
+                <category>signals auditor</category>
+                
+                <category>building product</category>
+                
+                <category>product implementation</category>
+                
+                
+            </item>
         
             <item>
                 <title>🔍 How I Found Trading Signal Groups to Audit (not for trading)</title>
